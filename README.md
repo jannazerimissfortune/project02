@@ -5,6 +5,7 @@
 Dự án của tôi là một trang web bán hàng quần áo đơn giản
 
 Khách hàng có thể dễ dàng duyệt qua các danh mục sản phẩm, và mua sắm tiện lợi ngay trên trang web của chúng tôi.
+
 # Yêu cầu dự án
 
 Tạo ra một trang Web demo có:
@@ -19,6 +20,6 @@ Tạo ra một trang Web demo có:
 
 • Frontend: HTML, CSS, JavaScript, Bootstrap (cho thiết kế đáp ứng)
 
-• Backend: Java, Java spring boot
+• Backend:
 
 • Cơ sở dữ liệu : MySql(lưu trữ dữ liệu người dùng và người mua)
